@@ -1,5 +1,4 @@
 # Amazon-Clone
-**GitHub description for Amazon Clone website**
 
 An Amazon Clone Website is a fully functional e-commerce platform built using [insert technology stack]. It replicates the familiar layout and design of Amazon, allowing users to browse and purchase products. The website features a responsive design, intuitive navigation, and a seamless shopping experience.
 
